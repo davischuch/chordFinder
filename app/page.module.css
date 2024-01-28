@@ -3,13 +3,13 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 6rem;
+  padding: 5vh;
   min-height: 100vh;
 }
 
 .back {
-  height: 70vh;
-  width: 80vw;
+  height: 90vh;
+  width: 40vw;
   display: grid;
   row-gap: 10px;
 }
